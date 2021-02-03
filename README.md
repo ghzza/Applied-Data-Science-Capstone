@@ -11,4 +11,6 @@ Now, start a Jupyter Notebook using any platform that you are comfortable with a
 
 Push the Notebook to your Github repository and submit a link to the notebook on your Github repository.
 
-Link to my Notebook : https://github.com/ghzza/Applied-Data-Science-Capstone/blob/main/Applied%20Data%20Science%20Capstone%20-%20Week%201.ipynb
+Link to my Notebook : 
+Week 1 : https://github.com/ghzza/Applied-Data-Science-Capstone/blob/main/Applied%20Data%20Science%20Capstone%20-%20Week%201.ipynb
+Week 3 : 
