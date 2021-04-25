@@ -14,3 +14,4 @@ Push the Notebook to your Github repository and submit a link to the notebook on
 Link to my Notebook : 
 1. Week 1 : https://github.com/ghzza/Applied-Data-Science-Capstone/blob/main/Applied%20Data%20Science%20Capstone%20-%20Week%201.ipynb 
 2. Week 3 : https://github.com/ghzza/Coursera_Capstone/tree/main/Applied%20Data%20Science%20Capstone%20-%20Week%203
+3. Final : https://github.com/ghzza/Coursera_Capstone/tree/main/Applied%20Data%20Science%20Capstone%20-%20Final
